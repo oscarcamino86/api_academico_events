@@ -85,7 +85,7 @@ La API actúa como un **Event Publisher** que:
 ### 1. Clonar el proyecto
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/oscarcamino86/api_academico_events.git
 cd api_academico_events
 ```
 
